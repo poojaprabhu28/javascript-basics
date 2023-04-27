@@ -1,2 +1,2 @@
-# learn-coding
-All the programs and excercises done while I learnt and improved my coding skills
+# Learn-PHP
+This repository contains sample programs to help learn PHP
