@@ -1,2 +1,2 @@
-# learn-coding
-All the programs and excercises done while I learnt and improved my coding skills
+# python
+Programs that I used to learn Python in depth
